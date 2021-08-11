@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros", "Numeros\Numeros.csproj", "{53411152-14A3-4953-B531-F25935777BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53411152-14A3-4953-B531-F25935777BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53411152-14A3-4953-B531-F25935777BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53411152-14A3-4953-B531-F25935777BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53411152-14A3-4953-B531-F25935777BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F98F40-7808-4FCA-BDCA-39A2772E03C3}
+	EndGlobalSection
+EndGlobal
